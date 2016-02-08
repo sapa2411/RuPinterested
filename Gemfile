@@ -14,6 +14,8 @@ gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'paperclip', '~> 4.3', '>= 4.3.4'
 gem 'jquery-turbolinks'
 gem 'masonry-rails', '~> 0.2.4'
+gem 'will_paginate', '~> 3.1'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 
 group :development, :test do
   gem 'byebug'
